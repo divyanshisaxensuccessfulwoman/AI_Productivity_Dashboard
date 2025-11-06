@@ -1,5 +1,5 @@
 # 🧠 AI Productivity Dashboard  
-### Created by: Divyanshi Saxena (23102078)
+### Created by: Divyanshi Saxena
 
 An intelligent personal assistant built entirely in Python — designed to boost productivity through smart task management, note-taking, weather insights, and AI-powered study help.
 
